@@ -1,0 +1,4 @@
+Column |Name             |Description                          |Links to             |Called in |Notes
+0      |ID               |Main ID                              |                     |          |
+1      |spell4Id         |Spell casted when cost is payed?     |Spell4.tbl Column: 0 |          |
+2      |serviceTokenCost |How many Service Tokens does it Cost |                     |          |

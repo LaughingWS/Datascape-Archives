@@ -1,0 +1,4 @@
+Column |Name            |Description                         |Links to                 |Called in |Notes
+0      |ID              |Main ID                             |                         |          |
+1      |luaVariableName |The name in lua that this links to? |Client folder: UI ?      |          |
+2      |soundEventId    |ID of the sound event               |SoundEvent.tbl Column: 0 |          |

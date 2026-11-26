@@ -1,0 +1,3 @@
+Column |Name       |Description      |Links to                         |Called in |Notes
+0      |ID         |Main ID          |                                 |          |
+1      |spriteName |Client file name |UI\Icon\Map and UI\Icon\Map\Node |          |6 names don't match the folder and I can't find them, maybe I understand this wrong

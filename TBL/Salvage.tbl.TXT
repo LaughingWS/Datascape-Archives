@@ -1,0 +1,4 @@
+Column |Name        |Description         |Links to                |Called in |Notes
+0      |ID          |Main ID             |                        |          |
+1      |item2TypeId |Item Type ID        |Item2Type.tbl: Column 0 |          |
+2      |level       |Level of item?      |                        |          |Only goes up to 120

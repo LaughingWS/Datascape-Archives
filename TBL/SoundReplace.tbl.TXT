@@ -1,0 +1,5 @@
+Column |Name                      |Description                             |Links to                              |Called in |Notes
+0      |ID                        |Main ID                                 |                                      |          |Unused, as it's easier to update the SoundEvent.tbl with a new ID
+1      |soundReplaceDescriptionId |ID of SoundReplaceDescription           |SoundReplaceDescription.tbl Column: 0 |          |
+2      |soundEventIdOld           |SoundEvent ID to be replaced            |SoundEvent.tbl Column: 0              |          |
+3      |soundEventIdNew           |New SoundEvent ID replacing the old one |SoundEvent.tbl Column: 0              |          |

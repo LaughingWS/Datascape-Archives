@@ -1,0 +1,3 @@
+Column |Name                |Description          |Links to                                                      |Called in                          |Notes
+0      |ID                  |Main ID              |                                                              |PublicEventObjective.tbl: Column 5 |
+1      |localizedTextIdName |Text ID of Team name |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |                                   |

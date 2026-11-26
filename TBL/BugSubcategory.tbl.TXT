@@ -1,0 +1,4 @@
+Column |Name            |Description            |Links to                                                      |Called in |Notes
+0      |ID              |Main ID                |                                                              |          |
+1      |bugCategoryId   |ID of the Bug Category |BugCategory.tbl : Column 0                                    |          |
+2      |localizedTextId |Text displayed in game |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |          |

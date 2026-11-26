@@ -1,0 +1,4 @@
+Column |Name        |Description                          |Links to                |Called in |Notes
+0      |ID          |Main ID                              |                        |          |
+1      |creature2Id |ID of the Creature2 entity           |Creature2.tbl: Column 0 |          |
+2      |item2Id     |ID of the item that is dropped here? |Item2.tbl: Column 0     |          |

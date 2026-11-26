@@ -1,0 +1,7 @@
+Column |Name     |Description                                           |Links to |Called in          |Notes
+0      |ID       |Main ID                                               |         |Item2.tbl: Column 1|
+1      |budget00 |Stat multiplier, total of all budgets should = 1 or 2 |         |                   |Total of 1 or 2 is how Carbine balances the stats, but not required, as it will work with total that isn't a whole number
+2      |budget01 |Stat multiplier, total of all budgets should = 1 or 2 |         |                   |
+3      |budget02 |Stat multiplier, total of all budgets should = 1 or 2 |         |                   |
+4      |budget03 |Stat multiplier, total of all budgets should = 1 or 2 |         |                   |
+5      |budget04 |Stat multiplier, total of all budgets should = 1 or 2 |         |                   |

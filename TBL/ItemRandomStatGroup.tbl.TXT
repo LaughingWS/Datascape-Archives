@@ -1,0 +1,3 @@
+Column |Name                |Description       |Links to  |Called in |Notes
+0      |ID                  |Main ID           |          |          |
+1      |localizedTextIdName |Localized Text Id |          |          |Everything is 0

@@ -1,0 +1,5 @@
+Column |Name              |Description                  |Links to                    |Called in     |Notes
+0      |ID                |Main ID                      |                            |              |
+1      |creature2Id       |Creature2 entity to override |Creature2.tbl: Column 0     |              |
+2      |unitPropertyIndex |Stat to edit                 |UnitProperty2.tbl: Column 0 |              |
+3      |unitPropertyValue |New Value                    |                            |              |

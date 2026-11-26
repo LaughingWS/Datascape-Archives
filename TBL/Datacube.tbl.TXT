@@ -1,0 +1,26 @@
+Column |Name                  |Description                                                   |Links to                                                      |Called in|Notes
+ 0     |ID                    |Main ID                                                       |                                                              |         |
+ 1     |datacubeTypeEnum      |Tells you what kind of lore item this is                      |                                                              |         |
+ 2     |localizedTextIdTitle  |Text name displayed in game                                   |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 3     |localizedTextIdText00 |First block of text displayed in game                         |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 4     |localizedTextIdText01 |Second block of text displayed in game                        |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 5     |localizedTextIdText02 |Third block of text displayed in game                         |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 6     |localizedTextIdText03 |Fourth block of text displayed in game                        |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 7     |localizedTextIdText04 |Fifth block of text displayed in game                         |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 8     |localizedTextIdText05 |Sixth block of text displayed in game                         |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |         |
+ 9     |soundEventId          |ID of the sound event that plays the recording of the datacube|SoundEvent.tbl: Column 0                                      |         |
+10     |worldZoneId           |ID of the World Zone its from                                 |worldZone.tbl: Column 0                                       |         |
+11     |unlockCount           |How many Lore items to find to unlock this TFBTF              |                                                              |         |
+12     |assetPathImage        |Path and file of the image displayed                          |Client file, files in this folder: UI\Icon\Item\TBF           |         |
+13     |datacubeFactionEnum   |Enum that sets of the lore item is for your faction or not?   |                                                              |         |
+14     |worldLocation2Id      |ID of the World location                                      |WorldLocation2.tbl: Column 0                                  |         |Used to mark the map for Scientists
+15     |questDirectionId      |ID of the Quest Direction, that controls the pointing arrow   |QuestDirection.tbl: Column 0                                  |         |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enum table
+Column Name        |ID|Meaning                           |Notes
+DatacubeTypeEnum   |0 |Datacube                          |
+DatacubeTypeEnum   |1 |Tales from Beyond the Fringe      |
+DatacubeTypeEnum   |2 |Journal                           |
+DatacubeFactionEnum|0 |Both factions can see and collect?|
+DatacubeFactionEnum|1 |Only Exiles can see and collect   |
+DatacubeFactionEnum|2 |Only Dominion can see and collect |

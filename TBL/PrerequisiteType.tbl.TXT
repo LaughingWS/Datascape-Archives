@@ -1,0 +1,3 @@
+Column |Name                 |Description   |Links to                                                      |Called in |Notes
+0      |ID                   |              |                                                              |          |
+1      |localizedTextIdError |Error Text ID |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |          |
